@@ -10,4 +10,4 @@ it skips the purchase confirmation message, as well as fixing bugs such as the s
 **additional note:**
 please keep in mind the quick buy button will NOT work for clothes made by groups. i've tried to fix this, but could not figure out how. clothing made by individual users, however, can still be bought without issues.
 
-* this extension is meant for chrome. other browsers may have some issues or not work at all.
+// P.S. this extension is meant for chrome. other browsers may have some issues or not work at all.
