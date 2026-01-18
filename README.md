@@ -1,6 +1,8 @@
 [tampermonkey](https://www.tampermonkey.net/)  
 [installation guide](https://www.youtube.com/watch?v=pJEwz2rq90I)
 
+[install on greasyfork](https://greasyfork.org/en/scripts/563102-api-purchase)
+
 **what does it do?**  
 it is essentially a quicker buy button. 
 it skips the purchase confirmation message, as well as fixing bugs such as the site saying you don't have enough robux or tix even though you do.
