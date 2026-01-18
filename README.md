@@ -6,4 +6,4 @@ it is essentially a quicker buy button.
 it skips the purchase confirmation message, as well as fixing bugs such as the site saying you don't have enough robux or tix even though you do.
 
 **additional note:**
-please keep in mind the quick buy button will NOT work for clothing created by groups. i've tried to fix this, but could not figure out how. clothing made by individual users is not affected by this bug, as far as i'm aware.
+please keep in mind the quick buy button will NOT work for items not made by ROBLOX. i've tried to fix this, but could not figure out how. free clothing seems to work fine though, for whatever reason.
