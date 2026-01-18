@@ -1,0 +1,7 @@
+// this is a fork of the original purchase api script by @pythonplugin, with some minor changes done by myself. i made this for my own personal use, but decided to publish it as i thought others may find it useful too.
+
+list of changes:
+- corrected button colour to be the same as the normal buy button (was previously slightly off)
+- changed font to source sans pro (personal preference)
+- changed button text from "api buy" to "quick buy" (to make it more obvious what the button actually does to anyone who may not know)
+- accomodated button positioning for limited time items (detects if item is limited time and slightly lowers button to avoid overlapping with the countdown)
